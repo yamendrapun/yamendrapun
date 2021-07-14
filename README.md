@@ -1,7 +1,6 @@
 ## Hi 👋, I'm Yamendra!
 A Web Developer passionate about building complex web applications with interactive and user-friendly UI.
 
-
 ### 👨🏻‍💻 &nbsp;More About Me
 
 🌱 &nbsp; Currently expanding my skills in MERN stack and learning JavaScript, React, Node, Express and MongoDB.\
