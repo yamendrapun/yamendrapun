@@ -2,9 +2,8 @@
 A Web Developer passionate about building complex web applications with interactive and user-friendly UI.
 
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;More About Me
 
-💡 &nbsp; Web Developer passionate about building complex web applications with interactive and user-friendly UI.\
 🌱 &nbsp; Currently expanding my skills in MERN stack and learning JavaScript, React, Node, Express and MongoDB.\
 ✍️ &nbsp; In my free time, I play football and watch movies.\
 💬 &nbsp; Ask me about anything, i am happy to help!\
