@@ -5,7 +5,7 @@ A Web Developer passionate about building complex web applications with interact
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp; Web Developer passionate about building complex web applications with interactive and user-friendly UI.\
-🌱 &nbsp; Currently expanding my skills in MERN stack and learning JavaSReact, Node, Express and MongoDB.\
+🌱 &nbsp; Currently expanding my skills in MERN stack and learning JavaScript, React, Node, Express and MongoDB.\
 ✍️ &nbsp; In my free time, I play football and watch movies.\
 💬 &nbsp; Ask me about anything, i am happy to help!\
 ✉️ &nbsp; You can email me at punyamendra@gmail.com. I'll try to respond as soon as possible!\
@@ -18,6 +18,7 @@ A Web Developer passionate about building complex web applications with interact
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel&logoColor=563D7C)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=563D7C)&nbsp;
+![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express&logoColor=563D7C)&nbsp;
 ![Mysql](https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=mysql&logoColor=563D7C)&nbsp;
 ![Mongodb](https://img.shields.io/badge/-Mongodb-05122A?style=flat&logo=mongodb&logoColor=563D7C)&nbsp;\
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
