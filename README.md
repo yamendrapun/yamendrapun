@@ -5,7 +5,7 @@ A Web Developer passionate about building complex web applications with interact
 
 🌱 &nbsp; Currently expanding my skills in MERN stack and learning JavaScript, React, Node, Express and MongoDB.\
 ✍️ &nbsp; In my free time, I play football and watch movies.\
-💬 &nbsp; Ask me about anything, i am happy to help!\
+💬 &nbsp; Ask me about anything, I am happy to help!\
 ✉️ &nbsp; You can email me at punyamendra@gmail.com. I'll try to respond as soon as possible!\
 📄 &nbsp; You can check my [Resume](https://drive.google.com/file/d/1Z-0wKI0euqUMQkOwPhsmyRiuRlsm6SfF/view?usp=sharing) for more details about work experience.
 
