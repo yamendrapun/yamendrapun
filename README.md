@@ -3,7 +3,7 @@ A Web Developer passionate about building complex web applications with interact
 
 ### 👨🏻‍💻 &nbsp;More About Me
 
-🌱 &nbsp; Currently expanding my skills in JavaScript, React, Redux and TypeScript.\
+🌱 &nbsp; Currently expanding my skills in Python Django framework.\
 ✍️ &nbsp; In my free time, I play football and watch movies.\
 💬 &nbsp; Ask me about anything, I am happy to help!\
 ✉️ &nbsp; You can email me at punyamendra@gmail.com. I'll try to respond as soon as possible!\
