@@ -3,7 +3,7 @@ A Web Developer passionate about building complex web applications with interact
 
 ### 👨🏻‍💻 &nbsp;More About Me
 
-🌱 &nbsp; Currently expanding my skills in Python Django framework.\
+🌱 &nbsp; Full-stack engineer, PHP/Laravel + React/TypeScript. Building Vue 3 and Go projects.\
 ✍️ &nbsp; In my free time, I play football and watch movies.\
 💬 &nbsp; Ask me about anything, I am happy to help!\
 ✉️ &nbsp; You can email me at punyamendra@gmail.com. I'll try to respond as soon as possible!
@@ -22,7 +22,7 @@ A Web Developer passionate about building complex web applications with interact
 
 ### 📫 &nbsp; How to reach me:
 
-<a href="https://www.linkedin.com/in/yamendra-pun/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="https://www.linkedin.com/in/punyamendra"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:punyamendra@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 
 <!--
